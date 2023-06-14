@@ -1,4 +1,5 @@
-﻿int numberA = 3;
+﻿// stranno vedet sebya
+int numberA = 3;
 int numberB = 5;
 int result = numberA + numberB;
 Console.WriteLine(result);
