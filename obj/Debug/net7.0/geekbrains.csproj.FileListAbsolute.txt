@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\bin\Debug\net7.0\geekbrains.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\bin\Debug\net7.0\geekbrains.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\bin\Debug\net7.0\geekbrains.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\bin\Debug\net7.0\geekbrains.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\bin\Debug\net7.0\geekbrains.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\refint\geekbrains.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\geekbrains.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\obj\Debug\net7.0\ref\geekbrains.dll
