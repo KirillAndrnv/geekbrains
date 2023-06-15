@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\bin\Debug\net7.0\TaskOne.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\bin\Debug\net7.0\TaskOne.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\bin\Debug\net7.0\TaskOne.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\bin\Debug\net7.0\TaskOne.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\bin\Debug\net7.0\TaskOne.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\refint\TaskOne.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\TaskOne.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\TaskOne\obj\Debug\net7.0\ref\TaskOne.dll
