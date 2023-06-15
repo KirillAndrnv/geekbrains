@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\bin\Debug\net7.0\SemOne.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\bin\Debug\net7.0\SemOne.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\bin\Debug\net7.0\SemOne.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\bin\Debug\net7.0\SemOne.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\bin\Debug\net7.0\SemOne.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\refint\SemOne.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\SemOne.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOne\obj\Debug\net7.0\ref\SemOne.dll

@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\bin\Debug\net7.0\SemOnePractiseInGroup.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\bin\Debug\net7.0\SemOnePractiseInGroup.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\bin\Debug\net7.0\SemOnePractiseInGroup.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\bin\Debug\net7.0\SemOnePractiseInGroup.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\bin\Debug\net7.0\SemOnePractiseInGroup.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\refint\SemOnePractiseInGroup.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\SemOnePractiseInGroup.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\obj\Debug\net7.0\ref\SemOnePractiseInGroup.dll

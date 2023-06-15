@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\geekbrains.csproj": {}
+    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemOnePractiseInGroup\\SemOnePractiseInGroup.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\geekbrains.csproj": {
+    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemOnePractiseInGroup\\SemOnePractiseInGroup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\geekbrains.csproj",
-        "projectName": "geekbrains",
-        "projectPath": "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\geekbrains.csproj",
+        "projectUniqueName": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemOnePractiseInGroup\\SemOnePractiseInGroup.csproj",
+        "projectName": "SemOnePractiseInGroup",
+        "projectPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemOnePractiseInGroup\\SemOnePractiseInGroup.csproj",
         "packagesPath": "C:\\Users\\Вазген_второй\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\obj\\",
+        "outputPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemOnePractiseInGroup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Вазген_второй\\AppData\\Roaming\\NuGet\\NuGet.Config"

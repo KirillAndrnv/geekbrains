@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj": {}
+    "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj": {
+    "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj",
+        "projectUniqueName": "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj",
         "projectName": "Examlpes c#_Hello_console",
-        "projectPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj",
+        "projectPath": "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\Examlpes c#_Hello_console.csproj",
         "packagesPath": "C:\\Users\\Вазген_второй\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\obj\\",
+        "outputPath": "c:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\Examlpes c#_Hello_console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Вазген_второй\\AppData\\Roaming\\NuGet\\NuGet.Config"
