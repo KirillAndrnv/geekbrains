@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\bin\Debug\net7.0\secondTask.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\bin\Debug\net7.0\secondTask.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\bin\Debug\net7.0\secondTask.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\bin\Debug\net7.0\secondTask.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\bin\Debug\net7.0\secondTask.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\refint\secondTask.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\secondTask.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\secondTask\obj\Debug\net7.0\ref\secondTask.dll

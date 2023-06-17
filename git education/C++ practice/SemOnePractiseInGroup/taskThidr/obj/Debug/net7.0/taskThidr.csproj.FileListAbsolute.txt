@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\bin\Debug\net7.0\taskThidr.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\bin\Debug\net7.0\taskThidr.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\bin\Debug\net7.0\taskThidr.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\bin\Debug\net7.0\taskThidr.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\bin\Debug\net7.0\taskThidr.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\refint\taskThidr.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\taskThidr.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemOnePractiseInGroup\taskThidr\obj\Debug\net7.0\ref\taskThidr.dll

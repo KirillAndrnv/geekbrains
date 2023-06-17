@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\bin\Debug\net7.0\taskFour.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\bin\Debug\net7.0\taskFour.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\bin\Debug\net7.0\taskFour.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\bin\Debug\net7.0\taskFour.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\bin\Debug\net7.0\taskFour.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\refint\taskFour.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\taskFour.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskFour\obj\Debug\net7.0\ref\taskFour.dll

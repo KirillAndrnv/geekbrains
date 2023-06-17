@@ -61,7 +61,13 @@ numbers[size -1] = max
 
 console.log (numbers)
 
-
+//Start new prog c#
+dotnet new console
+dotnet run - start the prog
+Console.write - coursor stayed on the line
+console.writeline - coursor under the line 
+int a = int.Parce(console.readline()) - print the peremennaya in line 
+Console.wrigeline($(можем обращаться к переменной в фигурных скобках {} ,нужно для вывода переменной с пояснительной запиской в одну линию))
 
 
 

@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\bin\Debug\net7.0\taskThree.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\bin\Debug\net7.0\taskThree.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\bin\Debug\net7.0\taskThree.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\bin\Debug\net7.0\taskThree.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\bin\Debug\net7.0\taskThree.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\refint\taskThree.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\taskThree.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DzSemOne\taskThree\obj\Debug\net7.0\ref\taskThree.dll

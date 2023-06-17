@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\bin\Debug\net7.0\Examlpes c#_Hello_console.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\bin\Debug\net7.0\Examlpes c#_Hello_console.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\bin\Debug\net7.0\Examlpes c#_Hello_console.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\bin\Debug\net7.0\Examlpes c#_Hello_console.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\bin\Debug\net7.0\Examlpes c#_Hello_console.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\refint\Examlpes c#_Hello_console.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\Examlpes c#_Hello_console.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\Examlpes c#_Hello_console\obj\Debug\net7.0\ref\Examlpes c#_Hello_console.dll
