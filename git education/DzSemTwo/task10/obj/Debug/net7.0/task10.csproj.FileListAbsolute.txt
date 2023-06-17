@@ -1,0 +1,15 @@
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\bin\Debug\net7.0\task10.exe
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\bin\Debug\net7.0\task10.deps.json
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\bin\Debug\net7.0\task10.runtimeconfig.json
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\bin\Debug\net7.0\task10.dll
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\bin\Debug\net7.0\task10.pdb
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.csproj.AssemblyReference.cache
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.AssemblyInfoInputs.cache
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.AssemblyInfo.cs
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.dll
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\refint\task10.dll
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.pdb
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\task10.genruntimeconfig.cache
+C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\DzSemTwo\task10\obj\Debug\net7.0\ref\task10.dll
