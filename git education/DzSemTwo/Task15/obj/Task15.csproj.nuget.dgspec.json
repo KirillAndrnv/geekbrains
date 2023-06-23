@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj": {}
+    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\Task15\\Task15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj": {
+    "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\Task15\\Task15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj",
-        "projectName": "task10",
-        "projectPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj",
+        "projectUniqueName": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\Task15\\Task15.csproj",
+        "projectName": "Task15",
+        "projectPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\Task15\\Task15.csproj",
         "packagesPath": "C:\\Users\\Вазген_второй\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\obj\\",
+        "outputPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\Task15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Вазген_второй\\AppData\\Roaming\\NuGet\\NuGet.Config"
