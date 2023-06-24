@@ -3,7 +3,7 @@
 //782 -> 8
 //918 -> 1
 
-Console.Clear;
+
 
 Console.WriteLine ("Enter num a:");
 
@@ -19,13 +19,13 @@ int c = int.Parse (Console.ReadLine());
 
 Console.WriteLine ($"Second number of num is {a}");
 
-Console.WriteLine (a % 10);
+Console.WriteLine (a /10 % 10);
 
 Console.WriteLine ($"Second number of num is {b}");
 
-Console.WriteLine (b % 10);
+Console.WriteLine (b / 10 % 10);
 
 Console.WriteLine ($"Second number of num is {c}");
 
-Console.WriteLine (c % 10);
+Console.WriteLine (c / 10 % 10);
 

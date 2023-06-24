@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Кара_сын_Вазгена\\.nuget\\packages\\": {}
+    "C:\\Users\\Вазген_второй\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Кара_сын_Вазгена\\Desktop\\education GeekBrains\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj",
+      "projectUniqueName": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj",
       "projectName": "task10",
-      "projectPath": "C:\\Users\\Кара_сын_Вазгена\\Desktop\\education GeekBrains\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj",
-      "packagesPath": "C:\\Users\\Кара_сын_Вазгена\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Кара_сын_Вазгена\\Desktop\\education GeekBrains\\geekbrains\\git education\\DzSemTwo\\task10\\obj\\",
+      "projectPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\task10.csproj",
+      "packagesPath": "C:\\Users\\Вазген_второй\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\DzSemTwo\\task10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Кара_сын_Вазгена\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Вазген_второй\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

@@ -13,3 +13,18 @@ C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\
 C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.pdb
 C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.genruntimeconfig.cache
 C:\Users\Кара_сын_Вазгена\Desktop\education GeekBrains\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\ref\task four.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\bin\Debug\net7.0\task four.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\bin\Debug\net7.0\task four.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\bin\Debug\net7.0\task four.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\bin\Debug\net7.0\task four.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\bin\Debug\net7.0\task four.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\refint\task four.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\task four.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\C++ practice\SemThree\task four\obj\Debug\net7.0\ref\task four.dll

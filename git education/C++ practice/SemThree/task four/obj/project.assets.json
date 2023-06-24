@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Кара_сын_Вазгена\\.nuget\\packages\\": {}
+    "C:\\Users\\Вазген_второй\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Кара_сын_Вазгена\\Desktop\\education GeekBrains\\geekbrains\\git education\\C++ practice\\SemThree\\task four\\task four.csproj",
+      "projectUniqueName": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemThree\\task four\\task four.csproj",
       "projectName": "task four",
-      "projectPath": "C:\\Users\\Кара_сын_Вазгена\\Desktop\\education GeekBrains\\geekbrains\\git education\\C++ practice\\SemThree\\task four\\task four.csproj",
-      "packagesPath": "C:\\Users\\Кара_сын_Вазгена\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Кара_сын_Вазгена\\Desktop\\education GeekBrains\\geekbrains\\git education\\C++ practice\\SemThree\\task four\\obj\\",
+      "projectPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemThree\\task four\\task four.csproj",
+      "packagesPath": "C:\\Users\\Вазген_второй\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Вазген_второй\\Desktop\\dock\\geekbrains\\git education\\C++ practice\\SemThree\\task four\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Кара_сын_Вазгена\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Вазген_второй\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

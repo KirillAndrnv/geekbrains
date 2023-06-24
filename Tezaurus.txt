@@ -69,6 +69,7 @@ console.writeline - coursor under the line
 int a = int.Parce(console.readline()) - print the peremennaya in line 
 Console.wrigeline($(можем обращаться к переменной в фигурных скобках {} ,нужно для вывода переменной с пояснительной запиской в одну линию))
 
+//int[] -массив целых чисел
 
 
                                                       
