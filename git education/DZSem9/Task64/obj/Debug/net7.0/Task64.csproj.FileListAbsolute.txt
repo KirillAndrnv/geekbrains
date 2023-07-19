@@ -1,0 +1,15 @@
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\bin\Debug\net7.0\Task64.exe
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\bin\Debug\net7.0\Task64.deps.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\bin\Debug\net7.0\Task64.runtimeconfig.json
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\bin\Debug\net7.0\Task64.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\bin\Debug\net7.0\Task64.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.csproj.AssemblyReference.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.AssemblyInfoInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.AssemblyInfo.cs
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\refint\Task64.dll
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.pdb
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\Task64.genruntimeconfig.cache
+C:\Users\Вазген_второй\Desktop\dock\geekbrains\git education\DZSem9\Task64\obj\Debug\net7.0\ref\Task64.dll
