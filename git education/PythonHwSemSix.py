@@ -11,7 +11,7 @@ for i in range(n):
 #Задача 32: Определить индексы элементов массива (списка), значения которых принадлежат заданному диапазону (т.е. не меньше заданного минимума и не больше заданного максимума)
 
 import numpy
-items = numpy.random.randint(-10, 10, size = 10)
+items = numpy.random.randint(-10, 10, size = 20)
 print(len(items), items[:20])
 
 
@@ -22,4 +22,4 @@ min = 6
 
 for i in range(len(list_1)):
     if min <= list_1[i] <= max:
-        print(i, end=' ')
+        print(i, end=' ') 
