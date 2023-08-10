@@ -16,7 +16,7 @@ print(len(items), items[:20])
 
 
 list_1 = items 
-list_2 = []
+
 max = 10
 min = 6
 
